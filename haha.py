@@ -187,8 +187,8 @@ with st.sidebar:
     st.markdown(f'<div class="sidebar-text-icon-container"><a href="mailto:utsav.chaddha17@gmail.com" class="icon-link"><img src="{email_icon}" width="50"></a></div>', unsafe_allow_html=True)
     #st.markdown("[Email](mailto:utsav.chaddha17@gmail.com)")
     #st.image(resume_icon, width=50)
-    st.markdown(f'<div class="sidebar-text-icon-container"><a href="https://drive.google.com/file/d/1nq1mP9pMbs2dqmWc0tv5TB9M6cse3U9Z/view?usp=share_link" class="icon-link"><img src="{resume_icon}" width="50"></a></div>', unsafe_allow_html=True)
-    #st.markdown("[Resume](https://drive.google.com/file/d/1nq1mP9pMbs2dqmWc0tv5TB9M6cse3U9Z/view?usp=share_link")
+    st.markdown(f'<div class="sidebar-text-icon-container"><a href="https://drive.google.com/file/d/1de24diZ5q5kpALK0vxU9o_YmAR2Rpr-O/view?usp=sharing" class="icon-link"><img src="{resume_icon}" width="50"></a></div>', unsafe_allow_html=True)
+    #st.markdown("[Resume](https://drive.google.com/file/d/1de24diZ5q5kpALK0vxU9o_YmAR2Rpr-O/view?usp=sharing")
 
 
 
